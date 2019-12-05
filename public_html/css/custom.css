@@ -21,10 +21,6 @@
 :-ms-textarea-placeholder { /* IE 10+ */
   color: #333;opacity:1;
 }
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500');
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700');
-@import url('https://fonts.googleapis.com/css?family=Arvo:400,400i,700');
 * {font-family: 'Poppins', sans-serif;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Poppins', sans-serif;}
 p {
@@ -724,7 +720,6 @@ body.clinic_version .footer .widget-title h3 {
     float: left;
     width: 100%;
     min-height: 450px;
-    background: yellow;
 }
 .contact-section {
 	position:relative;
@@ -732,7 +727,7 @@ body.clinic_version .footer .widget-title h3 {
 .form-contant {
     float: left;
     position: absolute;
-    width: 40%;
+    width:100%;
     height: 100%;
     background: rgba(0,0,0,.8);
     z-index: 1;
@@ -1302,8 +1297,7 @@ nav.main-menu .navbar-toggle {border: solid #fff 2px;}
 .service-time.one {margin-top: -340px;}
 .serv p {display: none;}
 .inner-services {margin: 0 0;}
-.form-contant {float: left;position: absolute;width: 40%;height: 100%;background: rgba(0,0,0,.8);z-index: 1;padding: 15px 30px;}
-#googleMap {height: 540px !important;}
+.form-contant {float: left;position: absolute;width: 40%;height: 100%;z-index: 1;padding: 15px 30px;}
 .footer-info h3, .subcriber-info h3 {float: left;width: 100%;}
 .footer-info p {float: left;width: 100%;}
 	
