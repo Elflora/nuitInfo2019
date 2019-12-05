@@ -749,34 +749,34 @@ li.social-links a {
     margin-top: 20px;
 }
 
-.testimonial h4 {
+.astuces h4 {
     font-size: 18px;
     color: #ffffff;
     padding: 13px 0 0;
 }
 
-.testimonial img {
+.astuces img {
     max-width: 55px;
 }
 
-.testimonial small {
+.astuces small {
     margin-top: 7px;
     font-size: 16px;
     display: block;
 }
 
-.testimonial {
+.astuces {
     background-color: transparent;
 }
 
-.testimonial h3 {
+.astuces h3 {
     padding: 0 0 10px;
     font-size: 20px;
     font-weight: 300;
 }
 
-.testimonial small,
-.testimonial .lead {
+.astuces small,
+.astuces .lead {
     background-color: transparent;
     color: #aaa;
     display: block;
@@ -788,7 +788,7 @@ li.social-links a {
     position: relative;
 }
 
-.testimonial p:after {
+.astuces p:after {
     display: none;
 }
 

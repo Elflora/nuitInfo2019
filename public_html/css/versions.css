@@ -26,7 +26,7 @@ body.clinic_version .navbar-nav span {
     color: #1d86df !important;
 }
 
-body.clinic_version .testimonial h4,
+body.clinic_version .astuces h4,
 body.clinic_version .lead strong,
 body.clinic_version .icon-wrapper:hover a,
 body.clinic_version a:hover,
@@ -290,7 +290,7 @@ body.clinic_version .desc:before {
     margin-left: -16px;
 }
 
-body.clinic_version .testimonial small {
+body.clinic_version .astuces small {
     font-size: 13px;
 }
 
@@ -314,7 +314,7 @@ body.clinic_version .working-time li:first-child {
     border-top: 1px dashed rgba(255, 255, 255, 0.4);
 }
 
-body.clinic_version .testimonial h3 {
+body.clinic_version .astuces h3 {
     font-size: 18px;
     font-weight: bold;
     padding: 0 0 10px;
