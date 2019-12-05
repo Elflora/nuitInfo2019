@@ -3,6 +3,7 @@
 /****************************************** */
 
 /** ADD YOUR AWESOME CODES HERE **/
+
 ::-webkit-input-placeholder { /* Chrome */
   color: #333;opacity:1;
 }
@@ -434,6 +435,14 @@ body.clinic_version .section {
 }
 .message-box p {
     margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .service-widget h3 {
     font-size: 16px;
