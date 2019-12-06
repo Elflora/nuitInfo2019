@@ -68,7 +68,6 @@ header {
 }
 #home.first-section {
     position: relative;
-    min-height: 650px;
     margin-top: 145px;
 }
 .header-bottom nav.main-menu {
@@ -223,7 +222,7 @@ header {
 }
 #home.first-section {
     position: relative;
-    min-height: 650px;
+   
 }
 #home.first-section::after {
     content: "";
@@ -1265,7 +1264,7 @@ body.clinic_version .desc {
     margin-top: 10px;
 }	
 #home.first-section {
-    margin-top: 135px !important;
+    margin-top: 135px !important
 }
 .text-contant {
     width: 90%;
