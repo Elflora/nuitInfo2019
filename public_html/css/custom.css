@@ -23,7 +23,10 @@
   color: #333;opacity:1;
 }
 * {font-family: 'Poppins', sans-serif;}
-h1,h2,h3,h4,h5,h6 {font-family: 'Poppins', sans-serif;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
 p {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
@@ -291,7 +294,6 @@ body.clinic_version .first-section h2 {
     text-transform: capitalize;
     font-size: 40px;
     font-weight: bold;
-    float: left;
     width: 100%;
     padding: 0;
 }
@@ -402,7 +404,7 @@ body.clinic_version .first-section h2 {
     font-weight: 400;
     letter-spacing: -1px;
     color: #333;
-    margin: 5px 0;
+    margin: 5px auto;
     padding: 0;
     position: relative;
 }
@@ -442,7 +444,6 @@ body.clinic_version .section {
 h2{
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 .service-widget h3 {
     font-size: 16px;
