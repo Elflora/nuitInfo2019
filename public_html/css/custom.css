@@ -823,6 +823,47 @@ body.clinic_version .footer .widget-title h3 {
     position: relative;
     font-weight: 400;
 }
+
+.SFEIR {
+    padding: 20px 0px;
+    background: #2a4eee;
+    color: #fff;
+	float:left;
+	width:100%;
+}
+
+.Ubisoft {
+    padding: 20px 0px;
+    background: #1570da;
+    color: #fff;
+	float:left;
+	width:100%;
+}
+
+.Val {
+    padding: 20px 0px;
+    background: #2a4eee;
+    color: #fff;
+	float:left;
+	width:100%;
+}
+
+.Divalto {
+    padding: 20px 0px;
+    background: #157fd0;
+    color: #fff;
+	float:left;
+	width:100%;
+}
+
+.Capcod {
+    padding: 20px 0px;
+    background: #2a4eee;
+    color: #fff;
+	float:left;
+	width:100%;
+}
+
 .copyright-area {
     padding: 20px 0px;
     background: #157fda;
@@ -1296,7 +1337,6 @@ body.clinic_version .desc {
     width: 100%;
 }
 
-}
 
 @media (min-width:768px) and (max-width:991px) {
 
